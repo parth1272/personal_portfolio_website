@@ -44,7 +44,9 @@ send_email Function:
 1.The if __name__ == "__main__": block runs the Flask application when the script is executed directly.
 2.The app.run(debug=True) statement starts the development server with debugging enabled.
 
-![image]("https://github.com/parth1272/personal_portfolio_website/assets/134066202/843dc21c-8cb5-4bf7-b358-a022a3d6538f") Important Note:
+
+
+![image](https://github.com/parth1272/personal_portfolio_website/assets/134066202/843dc21c-8cb5-4bf7-b358-a022a3d6538f) Important Note:
 
 Storing email credentials (especially passwords) directly in code or environment variables is not recommended for security reasons. In a production environment, consider using a more secure method, such as a configuration file or a secure vault system.
 Additionally, using a user's email and password directly to send emails may not be the best practice. Instead, consider using an email service with an API key for better security.
