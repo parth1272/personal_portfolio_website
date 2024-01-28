@@ -3,6 +3,11 @@
 
 This code is a Flask web application that serves a website(personal portfolio) with a contact form. The form allows users to enter their name, email, and a message, which is then sent via email to a specified email address using the SMTP protocol.
 
+<h2>How to setup and run the site</h2>
+1. Open the Pycharm and import all these file as it is
+![Screenshot (75)](https://github.com/parth1272/personal_portfolio_website/assets/134066202/f9b0f726-e747-48ed-8a49-10e3a2e8de07)
+
+
 <h2>Let's break down the code:</h2>
 
 
