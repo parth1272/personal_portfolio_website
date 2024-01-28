@@ -8,10 +8,13 @@ This code is a Flask web application that serves a website(personal portfolio) w
 
 ![Screenshot (75)](https://github.com/parth1272/personal_portfolio_website/assets/134066202/e852392d-af62-4f0c-b69d-40c6e40f9055)
 
-2. now run the program (Server) and go to the link which is the output of the program.
+2. Now run the program (Server) and go to the link which is the output of the program.
 
  ![Screenshot (76)](https://github.com/parth1272/personal_portfolio_website/assets/134066202/cc71c939-747c-4790-b57e-f8a9ed5208f4)
 
+4. You can customize the data inside index.html file as per your need.
+
+5. You can replace the images which i have provided in the file but you have to rename your images with the same name as i mention and then just drag that images into the perticular file
 
 <h2>Let's break down the code:</h2>
 
